@@ -4,7 +4,7 @@ defaultContentLanguage = 'en'
 # languages
 [languages]
   [languages.en]
-    title = "Hi, I'm Mack68426"
+    title = "Hi, I'm Mack"
     [languages.en.params]
       homeSubtitle = "My Personal website"
     weight = 1
@@ -23,7 +23,7 @@ hasCJKLanguage = true
 enableEmoji = true
 
 
-# formatter
+# frontmatter
 [frontmatter]
 date = ["lastmod", "date", "publishDate"]
 lastmod = ["date", "lastmod", ":git", "publishDate"]
@@ -79,18 +79,18 @@ expiryDate = ["expiryDate"]
   # noIndexPages = ["404 Page not found"]
   # footerHideThemeName = false
 
-  [[params.socialLinks]]
+  [params.socialLinks]
     name = "github"
     url = "https://github.com/Mack68426/"
   
-  [[params.socialLinks]]
+  [params.socialLinks]
     name = "x"
     url = "https://x.com/mack68426"
     
-  [[params.socialLinks]]   
+  [params.socialLinks]   
     name = "discord"
     url = "https://discord.com"
   
-  [[params.socialLinks]]
+  [params.socialLinks]
     name = "eamil"
     url = "mailto:bob9531@gmail.com"
