@@ -1,23 +1,24 @@
-baseURL = 'https://mack68426.github.io'
-defaultContentLanguage = 'en'       
+baseURL = "https://mack68426.github.io"
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 # languages
-[languages]
-  [languages.en]
-    title = "Hi, I'm Mack"
-    [languages.en.params]
-      homeSubtitle = "My Personal website"
-    weight = 1
-  [languages.zh]
-    title = '嗨，我是青花魚(´・ω・`)，叫我青花也可以'
-    [languages.zh.params]
-      homeSubtitle = "青花的個人網站"
-    weight = 2
+# [languages]
+#   [languages.en]
+#     title = "Hi, I'm Mack"
+#     [languages.en.params]
+#       homeSubtitle = "My Personal website"
+#     weight = 1
+#   [languages.zh]
+#     title = "嗨，我是青花魚(´・ω・`)，叫我青花也可以"
+#     [languages.zh.params]
+#       homeSubtitle = "青花的個人網站"
+#     weight = 2
 
-languageCode = 'en-us'
+
 
 # site content settings
+languageCode = 'en-us'
 title = 'Hi Mack68426'
 theme = 'hermit-v2'
 hasCJKLanguage = true
@@ -36,6 +37,10 @@ expiryDate = ["expiryDate"]
   name = "Mack68426"
   about = "Personal website"
 
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+  # category = "categories"
 
 [params]
 
@@ -51,7 +56,7 @@ expiryDate = ["expiryDate"]
 
   footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""
-  # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+
 
   justifyContent = false
 
@@ -93,4 +98,4 @@ expiryDate = ["expiryDate"]
   
   [[params.socialLinks]]
     name = "eamil"
-    url = "mailto:bob9531@gmail.com"
+    url = "bob9531@gmail.com"
