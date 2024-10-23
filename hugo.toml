@@ -98,4 +98,4 @@ expiryDate = ["expiryDate"]
   
   [[params.socialLinks]]
     name = "eamil"
-    url = "bob9531@gmail.com"
+    url = "mailto:bob9531@gmail.com"
