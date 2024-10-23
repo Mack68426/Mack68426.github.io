@@ -18,7 +18,7 @@ defaultContentLanguage = 'en'
 
 # site content settings
 languageCode = 'en-us'
-title = 'Hi Mack68426'
+title = 'Hi, the voyager'
 theme = 'hermit-v2'
 hasCJKLanguage = true
 enableEmoji = true
