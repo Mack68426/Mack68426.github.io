@@ -1,3 +1,3 @@
-[Mack68426](https://mack68426.github.io/)
+## This is a [Hugo](https://gohugo.io/) demo for building a simple personal website in THU class
 
-# mack68426.github.io
+Using Hugo theme: https://themes.gohugo.io/themes/terminal-hugo-theme/
