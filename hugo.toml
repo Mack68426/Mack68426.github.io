@@ -1,6 +1,5 @@
 baseURL = "https://mack68426.github.io"
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
 
 # languages
 # [languages]
