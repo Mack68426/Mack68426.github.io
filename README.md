@@ -2,4 +2,4 @@
 
 Using Hugo theme: [Terminal](https://themes.gohugo.io/themes/terminal-hugo-theme/)
 
-![alt text](public/terminal-theme.png)
+![alt text](static/terminal-theme.png)
